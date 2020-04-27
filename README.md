@@ -1,5 +1,8 @@
 # bonita-embeddedBPM
 
+**Disclaimer**: superseeded by the [Bonita 7.9+ embeddable engine](https://documentation.bonitasoft.com/bonita/7.10/embed-engine)
+
+
 This repository is home to Bonita EmbeddedBPM project which aims to provide suitable resources to ease the integration of Bonita BPM Engine as part of any Java custom application. This includes complementary library, integration samples and tutorials.
 
 You will find more details in other pages:
